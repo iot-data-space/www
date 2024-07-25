@@ -1,0 +1,8 @@
+.bgimg {
+    /* Background image */
+    background-image: url('/img/background.jpg');
+    /* Center the background image */
+    background-position: center;
+    /* Scale and zoom in the image */
+    background-size: cover;
+  }
